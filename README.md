@@ -8,13 +8,6 @@ Hi, I'm **Shreyansh Mewara**👋
 🚀 Interested in building **real-world backend projects**  
 🎯 Goal: Become a strong **Java Backend Developer**
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mewara_shrey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-mewara)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SMewara60711)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mewarashrey@gmail.com)
-
 # 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
