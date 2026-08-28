@@ -1,132 +1,83 @@
-# 👋 Hi, I'm Shreyansh Mewara
+# Hi, I'm Shreyansh Mewara 👋
 
-### ☕ Java Backend Developer in Progress | Spring Boot | DSA
+### Java Backend Developer | B.Tech CSE Student | DSA
 
-I'm a **B.Tech Computer Science student** focused on becoming a strong **Java Backend Developer**.
+I'm a Computer Science student passionate about **Java Backend Development** and **problem solving**.
 
-I enjoy solving problems, understanding how systems work, and building practical backend applications using Java and Spring Boot.
+Currently building my foundation in **Core Java, OOP, SQL, DBMS, Spring Boot and REST APIs**, while consistently practicing **Data Structures & Algorithms**.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
-- ☕ Currently focused on **Java & Backend Development**
-- 🌱 Learning **Spring Boot, REST APIs, SQL & DBMS**
+- 🎓 B.Tech Computer Science Engineering student
+- ☕ Focused on **Java Backend Development**
+- 🌱 Currently learning **Spring Boot & REST APIs**
+- 🗄️ Learning **SQL, MySQL & DBMS**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🛠️ Building real-world backend projects
-- 📚 Improving my knowledge of **OOP, DBMS, Operating Systems & Computer Networks**
-- 🎯 Goal: Become a **job-ready Java Backend Developer**
+- 💻 Interested in building scalable and practical backend applications
+- 🎯 Preparing for **Software Development & Backend Engineering roles**
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
+</p>
 
-### Backend
+### ⚙️ Backend & Database
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
 
-### Database
+### 🔧 Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+</p>
 
 ---
 
 ## 🧠 Data Structures & Algorithms
 
-Currently practicing DSA with **Java** and focusing on building strong problem-solving skills.
+I use **Java** for DSA practice and focus on understanding patterns rather than memorizing solutions.
 
-### Topics
+### Currently Practicing
 
-- Arrays
-- Strings
-- Sorting
-- Binary Search
-- Recursion
-- Linked Lists
-- Stack & Queue
-- Hashing
-- Trees
-- Graphs
-- Sliding Window
-- Two Pointers
+`Arrays` • `Strings` • `Sorting` • `Binary Search`  
+`Recursion` • `Hashing` • `Linked List` • `Stack`  
+`Queue` • `Sliding Window` • `Two Pointers`  
+`Trees` • `Graphs`
 
-### LeetCode
+### 💡 Problem Solving
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+- LeetCode
+- Competitive Programming
+- Algorithmic Problem Solving
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 ---
 
-## 🚀 Featured Projects
+## 🔨 What I'm Building
 
-### 🔹 Java DSA Practice
-
-Collection of my Java solutions and implementations while practicing Data Structures & Algorithms.
-
-**Focus:** Java • DSA • Problem Solving
-
-### 🔹 Backend Projects
-
-Currently building practical backend applications using:
-
-**Java • Spring Boot • REST APIs • MySQL**
-
-More projects coming soon 🚀
-
----
-
-## 📊 GitHub Stats
-
-![Shreyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyElite&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyElite&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShreyElite&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-ShreyElite-181717?style=for-the-badge&logo=github)](https://github.com/ShreyElite)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreyansh%20Mewara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
----
-
-## ⚡ Current Focus
+I'm currently working towards building backend applications using:
 
 ```text
 Java
-  ↓
-Core Java & OOP
-  ↓
-SQL & DBMS
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-Backend Projects
-  ↓
-DSA & Interview Preparation
-  ↓
-Java Backend Developer 🚀
+  │
+  ├── Core Java
+  ├── OOP
+  ├── Collections
+  │
+  ├── SQL & DBMS
+  │
+  └── Spring Boot
+        │
+        ├── REST APIs
+        ├── Spring Data JPA
+        └── MySQL
