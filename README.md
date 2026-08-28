@@ -60,10 +60,7 @@ Become a strong <b>Java Backend Developer</b> and build real-world projects.
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/ShreyElite/ShreyElite/main/profile/stats.svg"
-alt="Shrey's GitHub Stats"
->
+![Shreyansh's GitHub Stats](https://raw.githubusercontent.com/ShreyElite/ShreyElite/main/profile/stats.svg)
 
 </div>
 
