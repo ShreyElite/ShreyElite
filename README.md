@@ -9,7 +9,7 @@
 </p>
 
 <p>
-☕ Currently learning <b>Java & Backend Development</b>
+☕ Currently focused on <b>Java & Backend Development</b>
 </p>
 
 <p>
@@ -17,11 +17,11 @@
 </p>
 
 <p>
-🌱 Learning <b>Spring Boot, SQL & DBMS</b>
+🌱 Exploring <b>Spring Boot, SQL & DBMS</b>
 </p>
 
 <p>
-🚀 Working towards becoming a <b>Java Backend Developer</b>
+🚀 Aspiring <b>Java Backend Developer</b>
 </p>
 
 <br>
@@ -30,7 +30,7 @@
 
 <br>
 
-<h2>🛠️ What I'm Learning</h2>
+<h2>⚡ Tech Stack</h2>
 
 <p>
 ☕ Java &nbsp;&nbsp; 🧩 DSA &nbsp;&nbsp; 🌱 Spring Boot
@@ -38,14 +38,6 @@
 
 <p>
 🗄️ SQL &nbsp;&nbsp; 📚 DBMS &nbsp;&nbsp; 🔧 Git
-</p>
-
-<br>
-
-<h2>🎯 Current Goal</h2>
-
-<p>
-Become a strong <b>Java Backend Developer</b> and build real-world projects.
 </p>
 
 <br>
