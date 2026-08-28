@@ -54,6 +54,25 @@ Become a strong <b>Java Backend Developer</b> and build real-world projects.
 
 <br>
 
+<h2>📊 GitHub Stats</h2>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/ShreyElite/ShreyElite/main/profile/stats.svg"
+alt="Shrey's GitHub Stats"
+>
+
+</div>
+
+<br>
+
+<hr>
+
+<br>
+
 <div align="center">
 
 💡 <i>Consistency today, mastery tomorrow.</i>
