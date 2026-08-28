@@ -9,7 +9,7 @@
 </p>
 
 <p>
-☕ Currently learning <a href="https://www.java.com/">Java</a> & Backend Development
+☕ Currently learning <b>Java & Backend Development</b>
 </p>
 
 <p>
@@ -24,22 +24,35 @@
 🚀 Working towards becoming a <b>Java Backend Developer</b>
 </p>
 
-<br><br>
+<br>
 
 <hr>
 
 <br>
 
-<div align="center">
+<h2>🛠️ What I'm Learning</h2>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ShreyElite&show_icons=true&theme=radical&title_color=ff4f9a&text_color=8be9fd&icon_color=ffd43b&bg_color=0d1117&hide_border=false"
-  alt="Shrey's GitHub Stats"
-/>
+<p>
+☕ Java &nbsp;&nbsp; 🧩 DSA &nbsp;&nbsp; 🌱 Spring Boot
+</p>
 
-</div>
+<p>
+🗄️ SQL &nbsp;&nbsp; 📚 DBMS &nbsp;&nbsp; 🔧 Git
+</p>
 
-<br><br>
+<br>
+
+<h2>🎯 Current Goal</h2>
+
+<p>
+Become a strong <b>Java Backend Developer</b> and build real-world projects.
+</p>
+
+<br>
+
+<hr>
+
+<br>
 
 <div align="center">
 
