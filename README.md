@@ -25,13 +25,19 @@ Currently building my foundation in **Core Java, OOP, SQL, DBMS, Spring Boot and
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🔧 Tools
@@ -46,17 +52,9 @@ Currently building my foundation in **Core Java, OOP, SQL, DBMS, Spring Boot and
 
 I use **Java** for DSA practice and focus on understanding patterns rather than memorizing solutions.
 
-### Currently Practicing
-
-`Arrays` • `Strings` • `Sorting` • `Binary Search`  
-`Recursion` • `Hashing` • `Linked List` • `Stack`  
-`Queue` • `Sliding Window` • `Two Pointers`  
-`Trees` • `Graphs`
-
 ### 💡 Problem Solving
 
 - LeetCode
-- Competitive Programming
 - Algorithmic Problem Solving
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
