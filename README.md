@@ -7,7 +7,6 @@ I'm a Computer Science student passionate about **Java Backend Development** and
 Currently building my foundation in **Core Java, OOP, SQL, DBMS, Spring Boot and REST APIs**, while consistently practicing **Data Structures & Algorithms**.
 
 ---
-
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering student
