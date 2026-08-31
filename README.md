@@ -5,7 +5,6 @@
 I'm a Computer Science student passionate about **Java Backend Development** and **problem solving**.
 
 Currently building my foundation in **Core Java, OOP, SQL, DBMS, Spring Boot and REST APIs**, while consistently practicing **Data Structures & Algorithms**.
-
 ---
 ## 🚀 About Me
 
@@ -15,7 +14,7 @@ Currently building my foundation in **Core Java, OOP, SQL, DBMS, Spring Boot and
 - 🗄️ Learning **SQL, MySQL & DBMS**
 - 🧠 Practicing **Data Structures & Algorithms**
 - 💻 Interested in building scalable and practical backend applications
-- 🎯 Preparing for **Software Development & Backend Engineering roles**
+- 🎯 Preparing for **Software Development & Backend Engineering roles and development**
 
 ---
 
