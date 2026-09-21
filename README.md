@@ -1,5 +1,5 @@
 # 💫 About Me:
-learning java backend ,REST API,etc
+JAVA BACKEND ENGINEER,REST API,etc
 
 
 # 💻 Tech Stack:
