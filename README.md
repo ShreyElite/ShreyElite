@@ -1,18 +1,78 @@
-# 💫 About Me:
-JAVA BACKEND ENGINEER,REST API,etc
+Shreyansh Mewara
+
+Computer Science Student | Aspiring Java Backend Developer | Learning by Building
+
+GitHub
+LinkedIn
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ShreyElite&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ShreyElite&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShreyElite&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Pursuing a B.Tech in Computer Science and Engineering at Arya College of Engineering, Jaipur, Rajasthan, India.
 
----
-[![](https://komarev.com/ghpvc/?username=ShreyElite&icon=8&color=0)](https://visitcount.itsvg.in)
+Focusing on Java and backend software development, with an emphasis on writing clean, structured, and maintainable code.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Strengthening core computer science fundamentals across Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), SQL, and DBMS.
+
+Building practical projects while progressing into Spring Boot, REST APIs, and relational database design with MySQL.
+
+Technical Skills
+
+Programming & Core Foundations
+
+Databases & Backend Development (Learning & Exploring)
+
+Developer Tools
+
+Current Focus
+
+Practicing Data Structures and Algorithms in Java to improve analytical problem-solving and code efficiency.
+
+Applying Object-Oriented Programming (OOP) principles to design modular, readable Java applications.
+
+Studying SQL queries, schema design, and DBMS concepts using MySQL.
+
+Learning how to build, structure, and document RESTful backend services with Spring Boot.
+
+Translating foundational concepts into practical, well-documented backend projects.
+
+Selected Repositories & Projects
+
+leetcode — Java
+
+Collection of my LeetCode problem-solving submissions and Data Structures & Algorithms practice in Java.
+
+basicknowledge — Programming Fundamentals
+
+Personal reference repository documenting foundational programming concepts and code notes for long-term retention.
+
+EventPass — JavaScript
+
+Project repository (Replace this note with a 1-sentence summary of EventPass's core purpose and features).
+
+Upcoming Java Backend Project — Java · Spring Boot · MySQL (In Progress / Planned)
+
+(Placeholder: Link your first Spring Boot REST API + MySQL project repository here once published.)
+
+Coding Profiles
+
+LeetCode Solutions Repository: github.com/ShreyElite/leetcode
+
+LeetCode Profile: leetcode.com/u/YOUR_LEETCODE_USERNAME (Replace with your verified LeetCode profile URL)
+
+GitHub Activity
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ShreyElite&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Shreyansh Mewara's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyElite&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Shreyansh Mewara's Top Languages" height="165" />
+</p>
+
+Contact
+
+GitHub: github.com/ShreyElite
+
+LinkedIn: linkedin.com/in/shreyansh-mewara-532856325
+
+Email: your.email@example.com (Replace with your preferred contact email)
+
+Location: Jaipur, Rajasthan, India
