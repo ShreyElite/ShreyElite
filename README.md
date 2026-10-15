@@ -2,9 +2,9 @@
 
 **Computer Science Student | Aspiring Java Backend Developer | Learning by Building**
 
-[GitHub](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FShreyElite)
-[LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshreyansh-mewara-532856325)
-[](mailto:your.email@example.com)
+[[https://img.shields.io/badge/GitHub-ShreyElite-181717?style=flat-square&logo=github&logoColor=white]](https://github.com/ShreyElite)
+[[https://img.shields.io/badge/LinkedIn-Shreyansh%20Mewara-0A66C2?style=flat-square&logo=linkedin&logoColor=white]](https://in.linkedin.com/in/shreyansh-mewara-532856325)
+[[https://img.shields.io/badge/Email-Contact%20Me-334155?style=flat-square&logo=gmail&logoColor=white]](mailto:your.email@example.com)
 
 ## About Me
 
@@ -15,25 +15,19 @@
 
 ## Technical Skills
 
-**Programming & Core Foundations**
+- **Programming:** `Java`
+- **Core Concepts:** `Object-Oriented Programming (OOP)` · `Data Structures & Algorithms (DSA)` · `DBMS`
+- **Databases (Learning):** `SQL` · `MySQL`
+- **Backend Development (Exploring & Learning):** `Spring Boot` · `REST APIs`
+- **Tools & Environment:** `Git` · `GitHub` · `IntelliJ IDEA`
 
-
-
-
-
-
-**Databases & Backend Development (Learning & Exploring)**
-
-
-
-
-
-
-**Developer Tools**
-
-
-
-
+[https://img.shields.io/badge/Java-Core%20Focus-2563EB?style=flat-square&logo=openjdk&logoColor=white&labelColor=1E293B]
+[https://img.shields.io/badge/SQL-Learning-475569?style=flat-square&logo=mysql&logoColor=white&labelColor=1E293B]
+[https://img.shields.io/badge/MySQL-Learning-475569?style=flat-square&logo=mysql&logoColor=white&labelColor=1E293B]
+[https://img.shields.io/badge/Spring%20Boot-Exploring-475569?style=flat-square&logo=springboot&logoColor=white&labelColor=1E293B]
+[https://img.shields.io/badge/Git-Tool-334155?style=flat-square&logo=git&logoColor=white&labelColor=1E293B]
+[https://img.shields.io/badge/GitHub-Tool-334155?style=flat-square&logo=github&logoColor=white&labelColor=1E293B]
+[https://img.shields.io/badge/IntelliJ%20IDEA-IDE-334155?style=flat-square&logo=intellijidea&logoColor=white&labelColor=1E293B]
 
 ## Current Focus
 
@@ -45,30 +39,27 @@
 
 ## Selected Repositories & Projects
 
-- **[leetcode](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FShreyElite%2Fleetcode)** — `Java`  
+- **[leetcode](/ShreyElite/leetcode)** — `Java`  
   Collection of my LeetCode problem-solving submissions and Data Structures & Algorithms practice in Java.
-- **[basicknowledge](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FShreyElite%2Fbasicknowledge)** — `Programming Fundamentals`  
+- **[basicknowledge](/ShreyElite/basicknowledge)** — `Programming Fundamentals`  
   Personal reference repository documenting foundational programming concepts and code notes for long-term retention.
-- **[EventPass](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FShreyElite%2FEventPass)** — `JavaScript`  
-  Project repository *(Replace this note with a 1-sentence summary of EventPass's core purpose and features)*.
-- **[Upcoming Java Backend Project](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FShreyElite%3Ftab%3Drepositories)** — `Java` · `Spring Boot` · `MySQL` *(In Progress / Planned)*  
+- **[EventPass](/ShreyElite/EventPass)** — `JavaScript`  
+  Application project repository *(Replace this note with a 1-sentence summary of EventPass's core purpose and features)*.
+- **[Upcoming Java Backend Project](/ShreyElite?tab=repositories)** — `Java` · `Spring Boot` · `MySQL` *(Planned)*  
   *(Placeholder: Link your first Spring Boot REST API + MySQL project repository here once published.)*
 
-## Coding Profiles
+## Coding Profiles & Activity
 
-- **LeetCode Solutions Repository:** [github.com/ShreyElite/leetcode](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FShreyElite%2Fleetcode)
-- **LeetCode Profile:** [leetcode.com/u/YOUR\_LEETCODE\_USERNAME](https://www.google.com/search?q=https%3A%2F%2Fleetcode.com%2F) *(Replace with your verified LeetCode profile URL)*
+- **GitHub Repositories:** [github.com/ShreyElite](/ShreyElite?tab=repositories)
+- **LeetCode Solutions (Java):** [github.com/ShreyElite/leetcode](/ShreyElite/leetcode)
+- **LeetCode Profile:** `leetcode.com/u/YOUR_LEETCODE_USERNAME` *(Replace with your verified LeetCode profile URL)*
 
-## GitHub Activity
-
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=ShreyElite&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d&quot; alt=&quot;Shreyansh Mewara&#39;s GitHub Stats&quot; height=&quot;165&quot; /&gt;
-  &lt;img src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyElite&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;border_color=30363d&quot; alt=&quot;Shreyansh Mewara&#39;s Top Languages&quot; height=&quot;165&quot; /&gt;
-&lt;/p&gt;
+[https://img.shields.io/github/followers/ShreyElite?label=Followers&style=flat-square&logo=github&labelColor=1E293B&color=2563EB]
+[https://img.shields.io/github/stars/ShreyElite?label=Repo%20Stars&style=flat-square&logo=github&labelColor=1E293B&color=2563EB]
 
 ## Contact
 
-- **GitHub:** [github.com/ShreyElite](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FShreyElite)
-- **LinkedIn:** [linkedin.com/in/shreyansh-mewara-532856325](https://www.google.com/search?q=https%3A%2F%2Fin.linkedin.com%2Fin%2Fshreyansh-mewara-532856325)
+- **GitHub:** [github.com/ShreyElite](/ShreyElite)
+- **LinkedIn:** `https://in.linkedin.com/in/shreyansh-mewara-532856325`
 - **Email:** [your.email@example.com](mailto:your.email@example.com) *(Replace with your preferred contact email)*
 - **Location:** Jaipur, Rajasthan, India
